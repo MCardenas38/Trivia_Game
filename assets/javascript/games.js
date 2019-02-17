@@ -2,7 +2,7 @@ $( document ).ready(function() {
     var trivia_questions = [
         {
             q: "What was the first web bowser?",
-            a: "WorldWideWide",
+            a: "WorldWideWeb",
             a1: "Netscape",
             a2: "NeXT",
             a3: "Mosaic",
